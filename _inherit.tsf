@@ -1,0 +1,1 @@
+§/mcr/vget http://coollinux.dashosting.de/spm/mr/$_#.tlz.signed && mkdir -p $ && tar xf $.tlz --overwrite -C $; rm $.tlz
