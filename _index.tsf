@@ -4,5 +4,6 @@ easyd
 		en=Extension to the D standard library to make coding easier
 	manual=false
 	type=native
+	target=src
 	activatableFiles
 	dependencies
